@@ -1,0 +1,5 @@
+numeros = str(input('Ingrese valores separados por comas: '))
+listaNumeros = numeros.split(',')
+tupla = tuple(listaNumeros)
+print (f'La lista resultante es: {listaNumeros}') 
+print (f'La tupla resultante es: {tupla}') 
