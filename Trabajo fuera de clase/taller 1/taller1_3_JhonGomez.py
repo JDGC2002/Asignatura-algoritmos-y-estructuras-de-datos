@@ -18,6 +18,7 @@ for aux in lines:
     else:
         depArea[depAnt] = AreaList
         AreaList = []
+        AreaList.append(area)
         i = 0
 
 depSearch = input('Escriba el departamento y recibirá el área total de este: ')
