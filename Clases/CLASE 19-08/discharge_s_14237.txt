@@ -1,0 +1,112 @@
+
+ 
+ 
+ 
+Admission Date:  [**3134-11-12**]              Discharge Date:   [**3135-3-21**]
+ 
+Date of Birth:  [**3083-11-28**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Augmentin / Sulfa (Sulfonamides) / Penicillins / Heparin Agents
+ 
+Attending:[**First Name3 (LF) 2446**] 
+Chief Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+[**3135-1-19**]: Chest Tube Placement
+Tracheostomy
+
+ 
+History of Present Illness:
+The patient is a 50 year old female with multiple myeloma, s/p 
+autologous stem cell transplant, transfusion dependent, 
+presenting with fevers and upper respiratory congestion. The 
+patient was in her usual state of health until two days prior to 
+admission when she began sneezing. She came to the outpatient 
+clinic for platelet and blood transfusions over the weekend. The 
+night prior to admission, she developed a frontal headache, 
+runny nose, nasal congestion, watery and red eyes and had 
+difficulty sleeping. She presented for a scheduled visit at the 
+clinic for platelet transfusion today.  She developed a 
+temperature to 100.5 after one unit of blood transfusion.  She 
+was also transfused one unit of platelets.  The patient was 
+admitted for febrile neutropenia.  
+ 
+Past Medical History:
+Multiple Myeloma
+-Diagnosed with IgG multiple myeloma in [**3121**].  She was followed 
+expectantly with stable asymptomatic disease
+-[**7-/3130**] she developed back pain, anemia and an IgG level to the 
+mid 3000 range.  Bone marrow biopsy demonstrated approximately 
+40-50% plasma cellularity.  MRI revealed an expansile lesion in 
+the left iliac crest.  She was treated with pulse Decadron until 
+[**8-/3130**] but developed hypercalcemia. 
+-She received high-dose Cytoxan for stem cell priming.  On 
+[**3131-1-23**], she underwent an autologous bone transplant and 
+attained a CR.  
+-[**12/3132**], she was noted to have a rising IgG level with 
+progressive bone pain
+-bone marrow biopsy performed in [**2-/3133**] showed 90% plasma cell 
+cellularity with amyloidosis by [**Country **] red staining comprising 
+approximately 40% of the marrow core.  
+-[**3133-4-11**], she was started on protocol 04-130 with Velcade and 
+Revamid--and completed 8 cycles.
+-[**8-/3134**], found to have progressive disease by skeletal survey. 
+She was restarted on Velcade/Revlamid to cytoreduce prior to 
+allogeneic stem cell transplantation.
+-[**10-29**], secondary to poor response to therapy, changed to 
+Melphalan, Revlamid, Prednisone
+
+ 
+Social History:
+Lives with husband and two children (daughter, 14 y/o, and son, 
+16y/o).  Denies significant tobacco use - smoked about [**12-25**] ppd 
+x2-3 years, quit 20y ago.  Occasional alcohol, no IVDU.  Does 
+not work outside the home.
+
+ 
+Family History:
+M - skin cancer
+M - multiple sclerosis
+F - Alzheimer's
+ 
+Physical Exam:
+Admission Physical Exam:
+VS-100.7, 119, 22, 127/78
+Gen-congested, red weeping eyes
+HEENT-bilateral injection, red eyes right>left, mouth sores on 
+posterior pharynx
+Neck-supple, nontender
+Car-tachycardic, no murmur
+Resp-CTAB
+Abd-s/nt/nd/nabs no HSM
+Ext-no edema, ecchymoses over both forearms.
+.
+ 
+Pertinent Results:
+.
+[**3134-11-11**] 09:30AM   WBC-0.4* RBC-3.21* HGB-10.0* HCT-27.2* MCV-85 
+MCH-31.1 MCHC-36.8* RDW-14.5
+[**3134-11-11**] 09:30AM   [**Last Name (un) 1056**] CT-70*
+
+[**3134-11-12**] 10:10AM   ALT(SGPT)-82* AST(SGOT)-31 LD(LDH)-152 ALK 
+PHOS-123* TOT BILI-1.1
+[**3134-11-12**] 10:10AM   ALBUMIN-3.6 CALCIUM-8.8 PHOSPHATE-2.6* 
+MAGNESIUM-1.9
+[**3134-11-12**] 10:10AM   GLUCOSE-145* UREA N-17 CREAT-0.6 SODIUM-133 
+POTASSIUM-3.5 CHLORIDE-97 TOTAL CO2-28 ANION GAP-12
+[**3134-11-12**] 08:45PM URINE  RBC-0 WBC-0 BACTERIA-NONE YEAST-NONE 
+EPI-0
+.
+[**11-13**]: CT sinus-IMPRESSION:
+1. Mucosal thickening of the paranasal sinuses as described 
+above.
+2. Preseptal periorbital soft tissue edema and postseptal 
+extraconal fat stranding, most consistent with a cellulitis.
+.
+[**11-14**]: MR head/brain: IMPRESSION:
+1. Features consistent with invasive fungal sinusitis involving 
+primarily the ...
