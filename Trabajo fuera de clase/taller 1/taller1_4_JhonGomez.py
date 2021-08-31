@@ -6,8 +6,8 @@ def BuscadorMaxArea():
     '''
     Dado un departamento, se recibirá el municipio con mayor área de este
     '''
-    file = open("Municipality_Area.csv", encoding="UTF-8")
-    files = open("Municipality_Area.csv", encoding="UTF-8")
+    file = open("Municipality_Area_mod.csv", encoding="UTF-8")
+    files = open("Municipality_Area_mod.csv", encoding="UTF-8")
     lines = csv.DictReader(file, delimiter=',')
     depMun = {}
     munArea = {}
