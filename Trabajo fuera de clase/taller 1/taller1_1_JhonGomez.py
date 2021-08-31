@@ -12,7 +12,7 @@ for archivo in names:
     if (posSex == -1):
         print (f'Hay un error en el archivo: {archivo}')
     else:
-        textoSexo = data[posSex:data.find('Service')]
+        textoSexo = data[posSex:(posSex+15)]
         if (textoSexo.count('M') == True):
             contadorM = contadorM + 1
         elif (textoSexo.count('F') == True):
