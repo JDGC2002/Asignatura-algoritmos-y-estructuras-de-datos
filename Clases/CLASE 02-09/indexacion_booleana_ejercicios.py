@@ -46,8 +46,8 @@ print(edades)
 #    cantidad 21 años: 2
 #    cantidad 22 años: 0
 #    cantidad 23 años: 1
+
 edades = np.array([18, 18, 17, 18, 20, 21, 23, 20, 18, 18, 19, 21])
-
-
-
- 
+for i in range(17,24):
+    ind = edades == i
+    print(f'cantidad {i} años: {sum(ind)}')
