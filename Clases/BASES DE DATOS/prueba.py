@@ -30,12 +30,17 @@ cursor = conexion.cursor()
 #ORGANIZAR por precio, para ignorar duplicados se usa el comando DISTINCT
 #cursor.execute('SELECT DISTINCT precio FROM platos ORDER BY precio ASC')
 
-
 # ORGANIZAR por precio pero en rangos
 #cursor.execute('SELECT * FROM platos WHERE precio BETWEEN 100 AND 200 ORDER BY precio DESC')
 
 # FILTRAR POR NOMBRE
-#cursor.execute('SELECT * FROM platos WHERE nombre LIKE "Vino%" ')
+
+cursor.execute('SELECT * FROM platos WHERE nombre = "vino" ')
+tabla = cursor.fetchall()
+
+for i in tabla:
+    print(i)
+
 
 # comando IN traer las reservas con 2 y 3 mesas, el comando IN funciona como el between
 # cursor.execute('SELECT * FROM reservaciones WHERE cantidadmesa IN (2,3)')
